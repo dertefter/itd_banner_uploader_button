@@ -1,2 +1,6 @@
-# itd_banner_uploader_button
-Cкрипт для Tampermonkey
+# Смена баннера ИТД для Tampermonkey
+
+Cкрипт для Tampermonkey, который добавляет кнопку для загрузки любой картинки в качестве баннера профиля на сайте ИТД (итд.com).
+
+
+
